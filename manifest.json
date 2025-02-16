@@ -1,0 +1,11 @@
+{
+    "specVersion": 1,
+    "constantsDirectory": "constants",
+    "providedFiles": [
+        "skills.json",
+        "pets.json",
+        "garden.json",
+        "slayers.json",
+        "hotm.json"
+    ]
+}

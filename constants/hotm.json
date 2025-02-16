@@ -1,0 +1,209 @@
+{
+    "$schema": "../schema/hotm.json",
+    "levels": [
+        0,
+        3000,
+        9000,
+        25000,
+        60000,
+        100000,
+        150000,
+        210000,
+        290000,
+        400000
+    ],
+    "perks": {
+        "mining_speed": {
+            "powder": "MITHRIL",
+            "max": 50,
+            "add": 1,
+            "pow": 3
+        },
+        "mining_fortune": {
+            "powder": "MITHRIL",
+            "max": 50,
+            "add": 1,
+            "pow": 3.05
+        },
+        "titanium_insanium": {
+            "powder": "MITHRIL",
+            "max": 50,
+            "add": 1,
+            "pow": 3.1
+        },
+        "luck_of_the_cave": {
+            "powder": "MITHRIL",
+            "max": 45,
+            "add": 1,
+            "pow": 3.07
+        },
+        "efficient_miner": {
+            "powder": "MITHRIL",
+            "max": 100,
+            "add": 1,
+            "pow": 2.6
+        },
+        "quick_forge": {
+            "powder": "MITHRIL",
+            "max": 20,
+            "add": 1,
+            "pow": 3.2
+        },
+        "old_school": {
+            "powder": "GEMSTONE",
+            "max": 20,
+            "add": 1,
+            "pow": 4
+        },
+        "professional": {
+            "powder": "GEMSTONE",
+            "max": 140,
+            "add": 1,
+            "pow": 2.3
+        },
+        "mole": {
+            "powder": "GEMSTONE",
+            "max": 200,
+            "add": 1,
+            "pow": 2.17883
+        },
+        "gem_lover": {
+            "powder": "GEMSTONE",
+            "max": 20,
+            "add": 1,
+            "pow": 4
+        },
+        "seasoned_mineman": {
+            "powder": "GEMSTONE",
+            "max": 100,
+            "add": 1,
+            "pow": 2.3
+        },
+        "blockhead": {
+            "powder": "GEMSTONE",
+            "max": 20,
+            "add": 1,
+            "pow": 4
+        },
+        "subterranean_fisher": {
+            "powder": "GEMSTONE",
+            "max": 40,
+            "add": 1,
+            "pow": 3.07
+        },
+        "keep_it_cool": {
+            "powder": "GEMSTONE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.07
+        },
+        "lonesome_miner": {
+            "powder": "GEMSTONE",
+            "max": 45,
+            "add": 1,
+            "pow": 3.07
+        },
+        "great_explorer": {
+            "powder": "GEMSTONE",
+            "max": 20,
+            "add": 1,
+            "pow": 4
+        },
+        "speedy_mineman": {
+            "powder": "GEMSTONE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.2
+        },
+        "powder_buff": {
+            "powder": "GEMSTONE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.2
+        },
+        "fortunate_mineman": {
+            "powder": "GEMSTONE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.2
+        },
+        "no_stone_unturned": {
+            "powder": "GLACITE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.05
+        },
+        "strong_arm": {
+            "powder": "GLACITE",
+            "max": 100,
+            "add": 1,
+            "pow": 2.3
+        },
+        "steady_hand": {
+            "powder": "GLACITE",
+            "max": 100,
+            "add": 1,
+            "pow": 2.6
+        },
+        "warm_hearted": {
+            "powder": "GLACITE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.1
+        },
+        "surveyor": {
+            "powder": "GLACITE",
+            "max": 20,
+            "add": 1,
+            "pow": 4
+        },
+        "metal_head": {
+            "powder": "GLACITE",
+            "max": 20,
+            "add": 1,
+            "pow": 4
+        },
+        "rags_to_riches": {
+            "powder": "GLACITE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.05
+        },
+        "eager_adventurer": {
+            "powder": "GLACITE",
+            "max": 100,
+            "add": 1,
+            "pow": 2.3
+        },
+        "crystalline": {
+            "powder": "GLACITE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.3
+        },
+        "gifts_from_the_departed": {
+            "powder": "GLACITE",
+            "max": 100,
+            "add": 1,
+            "pow": 2.45
+        },
+        "mining_master": {
+            "powder": "GLACITE",
+            "max": 10,
+            "add": 7,
+            "pow": 5
+        },
+        "dead_mans_chest": {
+            "powder": "GLACITE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.2
+        },
+        "vanguard_seeker": {
+            "powder": "GLACITE",
+            "max": 50,
+            "add": 1,
+            "pow": 3.1
+        }
+    }
+}
