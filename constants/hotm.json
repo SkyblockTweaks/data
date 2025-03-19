@@ -1,5 +1,4 @@
 {
-    "$schema": "../schema/hotm.json",
     "levels": [
         0,
         3000,

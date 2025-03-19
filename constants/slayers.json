@@ -1,5 +1,4 @@
 {
-    "$schema": "../schema/slayers.json",
     "slayerTables": {
         "ZOMBIE": [
             0,

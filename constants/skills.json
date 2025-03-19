@@ -1,5 +1,4 @@
 {
-    "$schema": "../schema/skills.json",
     "mainSkillLevels": [
         50,
         125,

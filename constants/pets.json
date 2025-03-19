@@ -1,5 +1,4 @@
 {
-    "$schema": "../schema/pets.json",
     "levelsCommon": [
         0,
         100,

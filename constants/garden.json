@@ -1,5 +1,4 @@
 {
-    "$schema": "../schema/garden.json",
     "gardenLevels": [
         0,
         70,
