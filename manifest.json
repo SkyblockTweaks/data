@@ -6,6 +6,7 @@
         "pets.json",
         "garden.json",
         "slayers.json",
-        "hotm.json"
+        "hotm.json",
+         "disabledFeatures.json"
     ]
 }
