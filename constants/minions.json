@@ -716,6 +716,10 @@
             "skill": "FISHING",
             "exp": 16
         },
+        "ENCHANTED_CLAY_BLOCK": {
+            "skill": "FISHING",
+            "exp": 2560
+        },
         "ENCHANTED_CLOWNFISH": {
             "skill": "FISHING",
             "exp": 320
