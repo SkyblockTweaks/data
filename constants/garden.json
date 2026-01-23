@@ -261,7 +261,7 @@
         "WHEAT": "WHEAT_PUMPKIN_MUSHROOM",
         "CARROT": "CARROT_POTATO",
         "POTATO": "CARROT_POTATO",
-        "MELON:" : "MELON",
+        "MELON" : "MELON",
         "PUMPKIN": "WHEAT_PUMPKIN_MUSHROOM",
         "SUGAR_CANE": "CANE_CACTUS",
         "COCOA_BEANS": "COCOA_NETHERWART",
