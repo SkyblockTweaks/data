@@ -13,6 +13,7 @@
     ],
     "perks": {
         "mining_speed": {
+            "name": "Mining Speed",
             "powder": "MITHRIL",
             "max": 50,
             "add": 1,
@@ -20,6 +21,7 @@
             "icon": "iron_pickaxe"
         },
         "mining_fortune": {
+            "name": "Mining Fortune",
             "powder": "MITHRIL",
             "max": 50,
             "add": 1,
@@ -27,13 +29,15 @@
             "icon": "diamond"
         },
         "titanium_insanium": {
+            "name": "Titanium Insanium",
             "powder": "MITHRIL",
             "max": 50,
             "add": 1,
             "pow": 3.1,
-            "skull:TITANIUM:TITANIUM_ORE"
+            "skull:TITANIUM:TITANIUM_ORE": null
         },
         "luck_of_the_cave": {
+            "name": "Luck Of The Cave",
             "powder": "MITHRIL",
             "max": 45,
             "add": 1,
@@ -41,6 +45,7 @@
             "icon": "golden_helmet"
         },
         "efficient_miner": {
+            "name": "Efficient Miner",
             "powder": "MITHRIL",
             "max": 100,
             "add": 1,
@@ -48,6 +53,7 @@
             "icon": "golden_pickaxe"
         },
         "quick_forge": {
+            "name": "Quick Forge",
             "powder": "MITHRIL",
             "max": 20,
             "add": 1,
@@ -55,6 +61,7 @@
             "icon": "furnace"
         },
         "old_school": {
+            "name": "Old School",
             "powder": "GEMSTONE",
             "max": 20,
             "add": 1,
@@ -62,6 +69,7 @@
             "icon": "diamond_ore"
         },
         "professional": {
+            "name": "Professional",
             "powder": "GEMSTONE",
             "max": 140,
             "add": 1,
@@ -69,6 +77,7 @@
             "icon": "skull:AMBER_ROUGH:ROUGH_AMBER_GEM"
         },
         "mole": {
+            "name": "Mole",
             "powder": "GEMSTONE",
             "max": 200,
             "add": 1,
@@ -76,6 +85,7 @@
             "icon": "item:stone:HARD_STONE"
         },
         "gem_lover": {
+            "name": "Gem Lover",
             "powder": "GEMSTONE",
             "max": 20,
             "add": 1,
@@ -83,6 +93,7 @@
             "icon": "skull:JADE_ROUGH:ROUGH_JADE_GEM"
         },
         "seasoned_mineman": {
+            "name": "Seasoned Mineman",
             "powder": "GEMSTONE",
             "max": 100,
             "add": 1,
@@ -90,13 +101,15 @@
             "icon": "experience_bottle"
         },
         "blockhead": {
+            "name": "Blockhead",
             "powder": "GEMSTONE",
             "max": 20,
             "add": 1,
             "pow": 4,
-            "icon: "obsidian"
+            "icon": "obsidian"
         },
         "subterranean_fisher": {
+            "name": "Subterranean Fisher",
             "powder": "GEMSTONE",
             "max": 40,
             "add": 1,
@@ -104,6 +117,7 @@
             "icon": "fishing_rod"
         },
         "keep_it_cool": {
+            "name": "Keep It Cool",
             "powder": "GEMSTONE",
             "max": 50,
             "add": 1,
@@ -111,13 +125,15 @@
             "icon": "lava_bucket"
         },
         "lonesome_miner": {
+            "name": "Lonesome Miner",
             "powder": "GEMSTONE",
             "max": 45,
             "add": 1,
             "pow": 3.07,
-            "icon" "diamond_sword"
+            "icon": "diamond_sword"
         },
         "great_explorer": {
+            "name": "Great Explorer",
             "powder": "GEMSTONE",
             "max": 20,
             "add": 1,
@@ -125,6 +141,7 @@
             "icon": "chest"
         },
         "speedy_mineman": {
+            "name": "Speedy Mineman",
             "powder": "GEMSTONE",
             "max": 50,
             "add": 1,
@@ -132,6 +149,7 @@
             "icon": "diamond_pickaxe"
         },
         "powder_buff": {
+            "name": "Powder Buff",
             "powder": "GEMSTONE",
             "max": 50,
             "add": 1,
@@ -139,20 +157,23 @@
             "icon": "item:lime_dye:MITHRIL_POWDER"
         },
         "fortunate_mineman": {
+            "name": "Fortunate Mineman",
             "powder": "GEMSTONE",
             "max": 50,
             "add": 1,
             "pow": 3.2,
-            "icon: "emerald"
+            "icon": "emerald"
         },
         "no_stone_unturned": {
+            "name": "No Stone Unturned",
             "powder": "GLACITE",
             "max": 50,
             "add": 1,
             "pow": 3.05,
-            "icon: "item:SUSPICIOUS_SCRAP:SUSPICIOUS_SCRAP"
+            "icon": "item:SUSPICIOUS_SCRAP:SUSPICIOUS_SCRAP"
         },
         "strong_arm": {
+            "name": "Strong Arm",
             "powder": "GLACITE",
             "max": 100,
             "add": 1,
@@ -160,82 +181,13 @@
             "icon": "skull:TUNGSTEN:TUNGSTEN"
         },
         "steady_hand": {
+            "name": "Steady Hand",
             "powder": "GLACITE",
             "max": 100,
             "add": 1,
             "pow": 2.6,
             "icon": "skull:RUBY_ROUGH:ROUGH_RUBY_GEM"
         },
-        "warm_hearted": {
-            "powder": "GLACITE",
-            "max": 50,
-            "add": 1,
-            "pow": 3.1,
-            "icon": "packed_ice"
-            
-        },
-        "surveyor": {
-            "powder": "GLACITE",
-            "max": 20,
-            "add": 1,
-            "pow": 4,
-            "icon": "chest_minecart"
-        },
-        "metal_head": {
-            "powder": "GLACITE",
-            "max": 20,
-            "add": 1,
-            "pow": 4,
-            "icon": "UMBER"
-        },
-        "rags_to_riches": {
-            "powder": "GLACITE",
-            "max": 50,
-            "add": 1,
-            "pow": 3.05,
-            "icon": "netherite_pickaxe"
-        },
-        "eager_adventurer": {
-            "powder": "GLACITE",
-            "max": 100,
-            "add": 1,
-            "pow": 2.3,
-            "icon: "emerald_block"
-        },
-        "crystalline": {
-            "powder": "GLACITE",
-            "max": 50,
-            "add": 1,
-            "pow": 3.3,
-            "icon: "skull:JADE_CRYSTAL"
-        },
-        "gifts_from_the_departed": {
-            "powder": "GLACITE",
-            "max": 100,
-            "add": 1,
-            "pow": 2.45,
-            "icon": "player_head"
-        },
-        "mining_master": {
-            "powder": "GLACITE",
-            "max": 10,
-            "add": 7,
-            "pow": 5,
-            "icon": "skull:TOPAZ_ROUGH:ROUGH_TOPAZ_GEM"
-        },
-        "dead_mans_chest": {
-            "powder": "GLACITE",
-            "max": 50,
-            "add": 1,
-            "pow": 3.2,
-            "icon": "skull:MINERAL_HELMET:MINERAL_HELMET"
-        },
-        "vanguard_seeker": {
-            "powder": "GLACITE",
-            "max": 50,
-            "add": 1,
-            "pow": 3.1,
-            "icon": "tripwire_hook"
-        }
+   
     }
 }
